@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009993672747",
+    "project_id": "healthforecast-fb2d6",
+    "storage_bucket": "healthforecast-fb2d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009993672747:android:94e9970bad7bb1f286626e",
+        "android_client_info": {
+          "package_name": "com.example.healthforecast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_nqhAophTVpCAReCeq7uDlF783iolX0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009993672747:android:62958359c3c61fa586626e",
+        "android_client_info": {
+          "package_name": "com.letshavefun.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_nqhAophTVpCAReCeq7uDlF783iolX0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
